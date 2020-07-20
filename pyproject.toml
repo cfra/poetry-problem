@@ -6,7 +6,7 @@ authors = ["Christian Franke <nobody@nowhere.ws>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
-wagtail = "2.7.2"
+beautifulsoup4 = "4.6.0"
 
 [tool.poetry.dev-dependencies]
 
